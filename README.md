@@ -26,14 +26,14 @@ The library is packaged as an OSGi bundle.
 <repositories>
   <repository>
     <id>marell</id>
-    <url>http://marell.se/nexus/content/repositories/releases/</url>
+    <url>http://marell.se/artifactory/libs-release</url>
   </repository>
 </repositories>
 ...
 <dependency>
   <groupId>se.marell</groupId>
   <artifactId>dswing</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
 </dependency>
 ```
 
